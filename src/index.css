@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#root{
+  text-align: center;
+  padding: 25%;
+}
+
+.increase{
+  background-color: rgb(9, 136, 9);
+  color: antiquewhite;
+  height: 50px;
+  width: 70px;
+}
+.decrease{
+  background-color: rgb(179, 3, 3);
+  color: antiquewhite;
+  height: 50px;
+  width: 70px;
+}
+span{
+  border: 0.5px solid black;
+  margin: 5px;
+  padding: 2px;
+}
